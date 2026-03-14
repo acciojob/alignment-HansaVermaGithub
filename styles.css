@@ -23,7 +23,7 @@
 #table-1{
 	border:1px black solid;
 	border-spacing:1px;
-	padding:1px;
+	padding:1px 0 0;
 }
 #center{
 	text-align:center;
