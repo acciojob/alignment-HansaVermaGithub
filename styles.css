@@ -1,1 +1,49 @@
 /*  your css code here. If applicable */
+.green{
+	background-color:green;
+	color:green;
+}
+
+#t-image{
+	height:200px;
+	width:500px;
+	text-align:center;
+}
+
+.blue{
+	background-color:blue;
+	color:blue;
+}
+#t21{
+	color:white;
+}
+#table-2{
+	color:white;
+}
+#table-1{
+	border:1px black solid;
+	border-spacing:1px;
+	padding:1px;
+}
+#center{
+	text-align:center;
+}
+#right{
+	text-align:right;
+}
+#table-2{
+	width:500px;
+}
+
+#table-1{
+	width:500px;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+.left{
+	text-align:left;
+}
